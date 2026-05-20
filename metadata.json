@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Bot Builder",
+  "description": "An interactive environment, guide, and emulator to build, test, and deploy standard Meta and Twilio WhatsApp chatbots integrated with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
